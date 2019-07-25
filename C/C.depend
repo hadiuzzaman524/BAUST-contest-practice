@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563542774 source:c:\users\asus\desktop\baust contest\c\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
